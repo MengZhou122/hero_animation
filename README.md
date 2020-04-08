@@ -1,6 +1,6 @@
 # hero_animation
 
-A new Flutter application.
+A new Flutter application realize the animation function.
 
 ## Getting Started
 
